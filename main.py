@@ -34,7 +34,7 @@
 # result = chat_model.predict(content + "에 대한 시를 써줘")
 # print(result)
 
-import langchain
+#import langchain
 #### chat version #####
 from langchain.chat_models import ChatOpenAI
 chat_model = ChatOpenAI()
