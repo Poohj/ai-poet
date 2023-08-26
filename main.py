@@ -1,10 +1,10 @@
 # pip3 install python-dotenv 
 
 ## 환경설정을 불러오기 위한 라이브러리 
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 
 ## 환경설정 불러오기 
-load_dotenv()
+#load_dotenv()
 
 
 ################################################################
